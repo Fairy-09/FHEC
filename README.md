@@ -18,5 +18,5 @@ scikit-learn
 2. Modify the corresponding 'host' and 'port' code case by case.
 
 # License
-The source code is free for research and education use only. Any commercial use should get formal permission first.
+If you want to use it, please star and fork first. The source code is free for research and education use only. Any commercial use should get formal permission first.
      
